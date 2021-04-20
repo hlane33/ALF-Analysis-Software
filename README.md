@@ -1,5 +1,5 @@
 # ALF-Analysis-Software
-A software package using MATLAB to view and analyze ALF data from Rutherford Appleton Labs.
+A software package, written by Zihao Liu, using MATLAB to view and analyze ALF data from Rutherford Appleton Labs.
 
 How to use this GUI can be found in our paper, this README file is to provide some technical details regarding the GUI.
 
